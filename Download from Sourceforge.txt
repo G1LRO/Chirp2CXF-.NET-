@@ -1,3 +1,5 @@
 File hosted on Sourecfoge as it's too big for Github
 
 Download exe file from https://sourceforge.net/projects/chirp2cxf/
+
+This software is powered by coffee https://www.buymeacoffee.com/G1LRO
